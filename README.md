@@ -1,4 +1,4 @@
-# Làm game với Phaser3
+# Game with Phaser3 Skeleton
 
 ## Cài đặt
 > npm install
